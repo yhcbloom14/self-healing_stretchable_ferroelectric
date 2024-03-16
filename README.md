@@ -7,7 +7,7 @@ Codes for "Self-Healing and Stretchable Ferroelectric-in-Hydrogel for Wearable E
 ```shell
 cd self-healing_stretchable_ferroelectric
 
-pip install -r requirements.txt
+python3.9 -m pip install -r requirements.txt
 
 ```
 
